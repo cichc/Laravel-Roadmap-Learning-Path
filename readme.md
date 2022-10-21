@@ -30,7 +30,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) <br>|
 | Route Parameters |:book: [~~Route Parameters~~](https://laravel.com/docs/routing#route-parameters) <br>|
 | Route Naming |:book: [Names Routes](https://laravel.com/docs/routing#named-routes) <br> :clapper: [~~Laravel: Why You Need Route Names?~~](https://www.youtube.com/watch?v=7lalb6HtR1c) <br>|
-| Route Groups |:book: [Route Groups](https://laravel.com/docs/routing#route-groups) <br> :clapper: [Laravel Route Grouping: Simple to Very Complex](https://www.youtube.com/watch?v=I6kyfSmPhn8) <br> :clapper: [More videos](videos/route-groups.md) |
+| Route Groups |:book: [~~Route Groups~~](https://laravel.com/docs/routing#route-groups) <br> :clapper: [Laravel Route Grouping: Simple to Very Complex](https://www.youtube.com/watch?v=I6kyfSmPhn8) <br> :clapper: [More videos](videos/route-groups.md) |
 | **Blade Basics** | :question: [Let's Test Your Laravel Blade Skills: Complete 8 Tasks](https://www.youtube.com/watch?v=P8s7UHuUhbg)<br>:clapper: [9 Quick Tips about Laravel Blade](https://www.youtube.com/watch?v=-Glz1InN68o) <br>|
 | Displaying Variables in Blade |:book: [Blade: Displaying Data](https://laravel.com/docs/blade#displaying-data) <br>|
 | Blade If-Else and Loop Structures |:book: [Blade: If-Statements](https://laravel.com/docs/blade#if-statements) <br>:book: [Blade Loops](https://laravel.com/docs/blade#loops) <br>|
